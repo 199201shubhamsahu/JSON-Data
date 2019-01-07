@@ -1,0 +1,112 @@
+[ {
+  "numberdata" : "0",
+  "numberToWord" : "null"
+}, {
+  "numberdata" : "1",
+  "numberToWord" : "eins"
+}, {
+  "numberdata" : "2",
+  "numberToWord" : "zwei"
+}, {
+  "numberdata" : "3",
+  "numberToWord" : "drei"
+}, {
+  "numberdata" : "4",
+  "numberToWord" : "vier"
+}, {
+  "numberdata" : "5",
+  "numberToWord" : "fünf"
+}, {
+  "numberdata" : "6",
+  "numberToWord" : "sechs"
+}, {
+  "numberdata" : "7",
+  "numberToWord" : "sieben"
+}, {
+  "numberdata" : "8",
+  "numberToWord" : "acht"
+}, {
+  "numberdata" : "9",
+  "numberToWord" : "neun"
+}, {
+  "numberdata" : "10",
+  "numberToWord" : "zehn"
+}, {
+  "numberdata" : "11",
+  "numberToWord" : "elf"
+}, {
+  "numberdata" : "12",
+  "numberToWord" : "zwölf"
+}, {
+  "numberdata" : "13",
+  "numberToWord" : "dreizehn"
+}, {
+  "numberdata" : "14",
+  "numberToWord" : "vierzehn"
+}, {
+  "numberdata" : "15",
+  "numberToWord" : "fünfzehn"
+}, {
+  "numberdata" : "16",
+  "numberToWord" : "sechzehn"
+}, {
+  "numberdata" : "17",
+  "numberToWord" : "siebzehn"
+}, {
+  "numberdata" : "18",
+  "numberToWord" : "achtzehn"
+}, {
+  "numberdata" : "19",
+  "numberToWord" : "neunzehn"
+}, {
+  "numberdata" : "20",
+  "numberToWord" : "zwanzig"
+}, {
+  "numberdata" : "21",
+  "numberToWord" : "einundzwanzig"
+}, {
+  "numberdata" : "22",
+  "numberToWord" : "zweiundzwanzig"
+}, {
+  "numberdata" : "23",
+  "numberToWord" : "dreiundzwanzig"
+}, {
+  "numberdata" : "24",
+  "numberToWord" : "vierundzwanzig"
+}, {
+  "numberdata" : "25",
+  "numberToWord" : "fünfundzwanzig"
+}, {
+  "numberdata" : "30",
+  "numberToWord" : "dreißig"
+}, {
+  "numberdata" : "40",
+  "numberToWord" : "vierzig"
+}, {
+  "numberdata" : "50",
+  "numberToWord" : "fünfzig"
+}, {
+  "numberdata" : "60",
+  "numberToWord" : "sechzig"
+}, {
+  "numberdata" : "70",
+  "numberToWord" : "siebzig"
+}, {
+  "numberdata" : "80",
+  "numberToWord" : "achtzig"
+}, {
+  "numberdata" : "90",
+  "numberToWord" : "neunzig"
+}, {
+  "numberdata" : "100",
+  "numberToWord" : "hundert"
+}, {
+  "numberdata" : "200",
+  "numberToWord" : "zweihundert"
+}, {
+  "numberdata" : "300",
+  "numberToWord" : "dreihundert"
+}, {
+  "numberdata" : "1000",
+  "numberToWord" : "tausend"
+} ]

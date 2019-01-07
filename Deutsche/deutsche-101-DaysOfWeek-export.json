@@ -1,0 +1,22 @@
+[ {
+  "englishDay" : "Sunday",
+  "germanDay" : "Sonntag"
+}, {
+  "englishDay" : "Monday",
+  "germanDay" : "Montag"
+}, {
+  "englishDay" : "Tuesday",
+  "germanDay" : "Dienstag"
+}, {
+  "englishDay" : "Wednesday",
+  "germanDay" : "Mittwoch"
+}, {
+  "englishDay" : "Thursday",
+  "germanDay" : "Donnerstag"
+}, {
+  "englishDay" : "Friday",
+  "germanDay" : "Freitag"
+}, {
+  "englishDay" : "Saturday",
+  "germanDay" : "Samstag"
+} ]

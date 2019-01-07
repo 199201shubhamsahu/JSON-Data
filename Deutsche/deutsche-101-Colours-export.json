@@ -1,0 +1,34 @@
+[ {
+  "englishColour" : "black",
+  "germanColour" : "schwarz"
+}, {
+  "englishColour" : "white",
+  "germanColour" : "weiß"
+}, {
+  "englishColour" : "red",
+  "germanColour" : "rot"
+}, {
+  "englishColour" : "yellow",
+  "germanColour" : "gelb"
+}, {
+  "englishColour" : "blue",
+  "germanColour" : "blau"
+}, {
+  "englishColour" : "green",
+  "germanColour" : "grün"
+}, {
+  "englishColour" : "pink",
+  "germanColour" : "rosa"
+}, {
+  "englishColour" : "orange",
+  "germanColour" : "orange"
+}, {
+  "englishColour" : "grey",
+  "germanColour" : "grau"
+}, {
+  "englishColour" : "violet",
+  "germanColour" : "violett"
+}, {
+  "englishColour" : "purple",
+  "germanColour" : "lila"
+} ]

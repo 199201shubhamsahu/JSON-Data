@@ -1,0 +1,37 @@
+[ {
+  "answer" : "dreizehn",
+  "option1" : "drei",
+  "option2" : "dreissig",
+  "option3" : "dreizehn",
+  "question" : "What is 13 in German?"
+},{
+  "answer" : "Sonntag",
+  "option1" : "Mittwoch",
+  "option2" : "Samtag",
+  "option3" : "Sonntag",
+  "question" : "What is Sunday in German?"
+},{
+  "answer" : "lila",
+  "option1" : "lila",
+  "option2" : "gelb",
+  "option3" : "rot",
+  "question" : "What is pink in German"
+},{
+  "answer" : "Thursday",
+  "option1" : "Yellow",
+  "option2" : "Thursday",
+  "option3" : "31",
+  "question" : "What does Donnerstag mean?"
+},{
+  "answer" : "orange-gelb",
+  "option1" : "orange-gelb",
+  "option2" : "gelb",
+  "option3" : "orange-blau",
+  "question" : "What colour is the Sun?"
+},{
+  "answer" : "zwanzig",
+  "option1" : "einundzwanzig",
+  "option2" : "neunzehn",
+  "option3" : "zwanzig",
+  "question" : "sechs+vierzehn is?"
+} ]
